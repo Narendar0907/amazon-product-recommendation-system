@@ -1,0 +1,1 @@
+This Python project explores whether an online shopping session is likely to result in a purchase. It uses the online_shoppers_intention.csv dataset and predicts the binary Revenue target. The script compares multiple classification approaches and trains a multilayer perceptron (MLP) model for final predictions.
